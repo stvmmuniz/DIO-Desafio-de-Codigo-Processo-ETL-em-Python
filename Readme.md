@@ -81,17 +81,17 @@ O arquivo final é salvo na pasta de dados processados, pronto para visualizaç�
 
 # ✅ Boas Práticas Aplicadas
 
-Separação clara entre dados brutos e processados;
+* Separação clara entre dados brutos e processados;
 
-Código organizado por etapas do ETL;
+* Código organizado por etapas do ETL;
 
-Tratamento explícito de erros e validações;
+* Tratamento explícito de erros e validações;
 
-Padronização de nomes e tipos de dados;
+* Padronização de nomes e tipos de dados;
 
-Decisões técnicas baseadas na natureza real dos dados;
+* Decisões técnicas baseadas na natureza real dos dados;
 
-Foco em reprodutibilidade, clareza e qualidade dos dados.
+* Foco em reprodutibilidade, clareza e qualidade dos dados.
 
 <br>
 
@@ -110,4 +110,5 @@ A seguir estão os arquivos com o código completo utilizado neste projeto, orga
 
 # 🎯 Conclusão
 
-Este projeto demonstra a aplicação prática de um pipeline ETL completo, desde a extração de dados públicos até a entrega de um dataset pronto para análise. A solução equilibra **qualidade técnica, clareza de implementação e boas práticas de engenharia de dados**, sendo adequada tanto para avaliação técnica quanto para apresentação em um portfólio profissional.
+
+Este projeto demonstra a aplicação prática de um pipeline ETL completo, desde a extração de dados públicos até a entrega de um dataset pronto para análise. A solução equilibra **qualidade técnica, clareza de implementação e boas práticas de engenharia de dados**.
